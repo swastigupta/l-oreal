@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -103,6 +105,13 @@
 }
 #msg-box2-1 .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#features3-0 P {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
+#features3-0 H4 {
+  color: #ffffff;
 }
 
 #menu-0 .hide-buttons .nav-btn {
