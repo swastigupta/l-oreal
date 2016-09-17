@@ -123,6 +123,13 @@
         },
         {
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "48px"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -143,19 +150,27 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "You can’t fail if you don’t climb, but there’s no joy in living your whole life on the ground.<br><div><br></div><br><div>It's 5 AM</div><div><br></div>",
+          "title": "You can’t fail if you don’t climb, but there’s no joy in living your whole life on the ground.<br><div><br></div><div><br></div>",
           "text": "Applied For : L'Oreal Summer Internship",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "48px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "22px"
+            },
+            "B": {
+              "font-size": "46px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H3": {
+              "font-size": "46px",
+              "text-align": "center"
+            }
+          },
           "_anchor": "msg-box5-0",
           "_params": {
             "paddingTop": "1",
@@ -201,32 +216,22 @@
           },
           "title": "SWASTI GUPTA",
           "text": "A.K.A<br><br><b>CHHUTKI</b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "22px"
-            },
-            "B": {
-              "font-size": "46px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "H3": {
-              "font-size": "46px",
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_name": "content6",
+          "_styles": {
+            "UL": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "content6-0",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<ul><li>Competitive Exam : I cleared CAT 2015</li><li>Score : 98.5 percentile</li></ul>",
+          "text1": "<ul><li>Competitive Exam : Cleared CAT 2015</li><li>Score : 98.51 percentile</li></ul>",
           "text2": "<ul><li>Fluent in English and Hindi</li></ul>"
         },
         {
@@ -268,6 +273,11 @@
         },
         {
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-0",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -294,63 +304,83 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc01157-600x800-26.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Travelling",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Exploring new places with family or friends or solo gives me immense joy. Interacting with people of different culures, countires and diverse backgrounds is always an enriching experience.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/58040-1490800675578-1400845168-31130507-5526387-n-600x450-98.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Writing",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "My interest in writing and reading took me to the editorial board of school magazine where I worked for 2 years and got to be an integral part of the process of creating a magazine from scratch. I also blogged for a student website in college.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/526293-270247226392721-1395409617-n-600x400-83.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Dance",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "In college, I was a part of a western dance group and being a non-dancer, I had to work on my skills more than others in my group but in the end performing with them and competing in the college's cultural festival was a wonderful experience.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20150620-wa0004-600x1059-60.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Swimming",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "&nbsp;After completing graduation, I joined swimming classes and utilised the idle time I had. I caught up fast and now have another hobby in my list.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9-600x865-87.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "Horse Riding",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Passing by the polo ground each day while returning from school, one day I expressed my desire to learn horse-riding and to my surprise I was told that it's possible. I attended their riding coaching camp for 2 months and cleared 3rd level of riding.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -363,12 +393,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -382,7 +407,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-1",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -414,7 +439,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -423,7 +448,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -432,27 +457,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1815-600x399-36.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Theatre",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Completed certified theatre courses by professional artists and performed centre stage, street plays and mime at various public forums as well as in school, college and university.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1799988-586019344805502-1741929688-o-600x400-55.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Exploring Food",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "I love cooking, trying out new dishes and watching competitions- specially Masterchef Australia. I have also participated in few cooking classes of international cuisines.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -504,29 +537,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            }
-          },
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "REACH ME AT",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"mailto:pg16swasti_g@mdi.ac.in\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a>  "
-        },
-        {
           "_name": "contacts1",
           "_anchor": "contacts1-0",
           "_params": {
@@ -556,8 +566,8 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
+          "text1": "<strong>Address</strong><br>254, Odyssey, MDI Hostels<br>MDI, Gurgaon, 122007",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pg16swasti_g@mdi.ac.in<br>\nPhone: +91 81230 89515<br><br>",
           "text3": ""
         },
         {
@@ -670,6 +680,81 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whyloreal.html\">WHY L'OREAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meself.html\">MYSELF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Swasti Gupta."
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "WHY L'OREAL ?<br>",
+          "text": "<br>For me, L’oreal is a company that has redefined beauty for all. It’s not what you are born with nor is it just your external appearance. L’oreal products give you room to experiment and match your inner self with the outer one.<br><br><b>Beauty for a better</b> life defines beauty as something that has the power to inform, support and change perceptions; it has the power to generate confidence.\nBeing able to connect with the values of the organization I work for is of utmost importance to me and I can establish that connection with L’oreal’s values of Passion, innovation, entrepreneurial spirit, open-mindedness and most importantly the quest for excellence.The Beautiful beginnings program in India is inspiring and I aspire to be a part of something this huge and relevant to the society in its own true sense.&nbsp;<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "EXPECTATIONS FROM THE INTERNSHIP<br>",
+          "text": "<br>Getting a live project that benefits L’oreal and provide me on the job training as well as familiarize me with the overall culture of the organization. I expect to accomplish challenging but realistic tasks by the end of 2 months. Learning from my peers and my mentor, I hope to develop professional competencies required in this field for success in future. A company with a vast global presence, I expect to get a glimpse of international exposure in terms of networking as well as understanding L’oreal’s strategies in terms of marketing as well as product development locally as well as globally.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
           "_name": "header1",
           "_anchor": "header1-2",
           "_params": {
@@ -683,8 +768,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -692,7 +777,7 @@
             "showButtons": false
           },
           "title": "AREAS OF INTEREST",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "<br>In today's world of internet and the spread of digital media, I am highly interested in teh field of Sales: E-commerce and Digital Marketing. I wish to be a part of the process of creating unique and everlasting brand campaigns which can instantly connect with the target group of each brand and product. I would also want to know how L'oreal can reach out to its customers for the premium brands as well as country specific products via e-commerce channel and contribute to the success of the same.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -717,6 +802,15 @@
         },
         {
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "46px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-0",
           "_params": {
             "paddingTop": 0,
@@ -724,7 +818,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -742,7 +836,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/q0k7f-gm-400x400-1400x1400-34.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -756,12 +854,17 @@
               "size": 0
             }
           },
-          "title": "THE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "THE BODY SHOP",
+          "text": "Enrich not exploit<br>It's in our hands<br>Commitment report- publishes updates on progress every year- <b>both good and not so good</b><br>Supporting women in Nicaragua<br>Focuses on care and not on hiding flaws",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-1",
           "_params": {
             "paddingTop": 0,
@@ -769,7 +872,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -787,7 +890,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/pa052001-1400x1050-21.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -801,84 +908,9 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "THE BODY SHOP &amp; ME",
+          "text": "Abiding by one's ethics and values and working towards the greater good of the society<br>Be accountable and responsible for your work.<br>Be bold enough to accept your mistakes and achievements with equal grace<br>Being a supporter of HEforSHE campaign, i can relate to the CSR activities undertaken by The Body Shop as well as L'oreal and truly appreciate the efforts.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-0",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Swasti Gupta."
-        },
-        {
-          "_name": "header1",
-          "_anchor": "header1-0",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "WHY L'OREAL ?<br>",
-          "text": "For me, l’oreal is a company that has redefined beauty for all. It’s not what you are born with nor is it just your external appearance. L’oreal products give you room to experiment and match your inner self with the outer one.<br><br>Beauty for a better life defines beauty as something that has the power to inform, support and change perceptions; it has the power to generate confidence.\nBeing able to connect with the values of the organization I work for is of utmost importance to me and I can establish that connection with L’oreal’s values of Passion, innovation, entrepreneurial spirit, open-mindedness and most importantly the quest for excellence.The Beautiful beginnings &nbsp;<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
-        },
-        {
-          "_name": "header1",
-          "_anchor": "header1-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "EXPECTATIONS FROM THE INTERNSHIP<br>",
-          "text": "Getting a live project that benefits L’oreal and provide me on the job training as well as familiarize me with the overall culture of the organization. I expect to accomplish challenging but realistic tasks by the end of 2 months. Learning from my peers and my mentor, I hope to develop professional competencies required in this field for success in future. A company with a vast global presence, I expect to get a glimpse of international exposure in terms of networking as well as understanding L’oreal’s strategies locally as well as globally.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1035,7 +1067,7 @@
             "showButton": false
           },
           "title": "<br>1) PRO SHOW",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p>Headed a team of nearly 100 students to organize 2 musical nights in the college’s annual cultural festival as well as support 30+ categories for 120+ events for all stage &amp; technical requirements. At the end of the 4 days, seeing over 4000 happy faces and knowing that my team and I were able to contribute to that has been my greatest accomplishment till date. \n</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1050,38 +1082,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2292-2000x1333-59-2000x1333-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2292-2000x1333-59.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150226-wa0001-2000x1500-79-2000x1500-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150226-wa0001-2000x1500-79.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/1606433-745797688777981-2053882549-o-2000x1500-31-2000x1500-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1606433-745797688777981-2053882549-o-2000x1500-31.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1454669-734462563253140-657451641-n-2000x1135-71-2000x1135-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1454669-734462563253140-657451641-n-2000x1135-71.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1097,6 +1131,15 @@
         },
         {
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-0",
           "_params": {
             "paddingTop": "1",
@@ -1113,7 +1156,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -1122,7 +1165,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/thumb-img-1271-1024-1400x1050-71.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1136,20 +1183,21 @@
               "size": 0
             }
           },
-          "title": "2) SOLID COLOR&nbsp;",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "2) 4th in National Level Debate competition",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "36px"
             },
             "P": {
               "text-align": "left"
             }
-          }
-        },
-        {
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-1",
           "_params": {
             "paddingTop": "2",
@@ -1175,7 +1223,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/thumb-img-1275-1024-1400x1866-79.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1189,17 +1241,9 @@
               "size": 0
             }
           },
-          "title": "3) SOLID COLOR&nbsp;",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "title": "3) Kalpana Chawla Memorial Award",
+          "text": "For excellence in grade X CBSE results",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -1247,18 +1291,18 @@
         },
         {
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content1-0",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>After being roommates for half a year with a college friend, I found out that she suffered from kleptomania. Missing a pair of earrings since 4 months, I looked for them in her wardrobe. To my utter shock, I found few other petty things of mine as well that I hadn’t even realized were missing. I had 3 options- complain to the hostel warden, confront her or take my things and change my room. Having bonded so well with her, I couldn’t convince myself to humiliate her publically in such a way but turning a blind eye wasn’t right either. So when she returned, I asked her if those earrings were hers. She declined. Then I told her where I had found it. I didn’t ask for any explanation. She cried silently for a while. We did not talk for weeks. All the noise that could be heard in our room was of switches being turned on or off. It took a long time but eventually, things turned normal. Today, we are best of friends and I am glad that in that moment I put my principles over and above my anger and shock and did not do anything which would have had a drastic impact.</p>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text": "<p>After being roommates for half a year with a college friend, I found out that she suffered from kleptomania. Missing a pair of earrings since 4 months, I looked for them in her wardrobe. To my utter shock, I found few other petty things of mine as well that I hadn’t even realized were missing. I had 3 options- complain to the hostel warden, confront her or take my things and change my room. Having bonded so well with her, I couldn’t convince myself to humiliate her publically in such a way but turning a blind eye wasn’t right either. So when she returned, I asked her if those earrings were hers. She declined. Then I told her where I had found it. I didn’t ask for any explanation. She cried silently for a while. We did not talk for weeks. All the noise that could be heard in our room was of switches being turned on or off. It took a long time but eventually, things turned normal. Today, we are best of friends and I am glad that in that moment I put my principles over and above my anger and shock and did not do anything which would have had a drastic impact.</p>"
         },
         {
           "_styles": {
@@ -1272,7 +1316,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -1299,10 +1343,10 @@
           "_anchor": "content1-1",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp;In the 3rd year of college, I contested for the post of cultural secretary of student council. All my friends, juniors, seniors had assumed by default that I would win considering all the work I had done till then in all the college festivals and clubs.  I felt confident about winning but got really nervous while presenting and lost the elections. Post that there was an air of tension between me and the contestant I lost to- sometimes owing to our conflicts of opinion and at times due to others banking on our communication gaps. \nIt was highly necessary for us to be on the same page to conduct the cultural festival smoothly. I had long one-to-one chats with her so as to minimize our conflicts and even explained the whole system of the cultural festival, what each category does and everything else. I felt that she caught up fast and did a great job. I won’t say that we became friends but we certainly worked out a way to work professionally towards a common goal.</p>"
+          "text": "<p>&nbsp;In the 3rd year of college, I contested for the post of cultural secretary of student council. All my friends, juniors, seniors had assumed by default that I would win considering all the work I had done till then in all the college festivals and clubs.  I felt confident about winning but got really nervous while presenting and lost the elections. Post that there was an air of tension between me and the contestant I lost to- sometimes owing to our conflicts of opinion and at times due to others banking on our communication gaps. </p><p>\nIt was highly necessary for us to be on the same page to conduct the cultural festival smoothly. I had long one-to-one chats with her so as to minimize our conflicts and even explained the whole system of the cultural festival, what each category does and everything else. I felt that she caught up fast and did a great job. I won’t say that we became friends but we certainly worked out a way to work professionally towards a common goal.</p>"
         },
         {
           "_name": "footer1",

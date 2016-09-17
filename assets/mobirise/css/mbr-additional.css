@@ -85,6 +85,9 @@
   font-size: 46px;
   text-align: center;
 }
+#content6-0 UL {
+  font-size: 20px;
+}
 #msg-box2-0 .mbr-section-title {
   color: #fff;
   font-family: 'Roboto', sans-serif;
@@ -100,10 +103,6 @@
 }
 #msg-box2-1 .mbr-section-subtitle {
   color: #a0a0a0;
-}
-#social-buttons2-0 .mbr-section-title,
-#social-buttons2-0 .btn-social {
-  color: #232323;
 }
 
 #menu-0 .hide-buttons .nav-btn {
@@ -167,6 +166,9 @@
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-0 .mbr-section-lead {
+  font-family: 'Lora', serif;
+}
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
@@ -174,8 +176,15 @@
 #header3-0 H3 {
   font-size: 72px;
 }
-#header1-0 .mbr-section-lead {
-  font-family: 'Lora', serif;
+#msg-box5-0 H3 {
+  text-align: left;
+  font-size: 46px;
+}
+#msg-box5-0 P {
+  text-align: left;
+}
+#msg-box5-1 H3 {
+  font-size: 36px;
 }
 #msg-box8-0 .mbr-section-title,
 #msg-box8-0 p {
@@ -254,12 +263,14 @@
 }
 #msg-box5-0 H3 {
   text-align: left;
+  font-size: 36px;
 }
 #msg-box5-0 P {
   text-align: left;
 }
 #msg-box5-1 H3 {
   text-align: left;
+  font-size: 36px;
 }
 #msg-box5-1 P {
   text-align: left;
